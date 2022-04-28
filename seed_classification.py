@@ -1,6 +1,7 @@
 '''
 # This file is provided by our supervisor, Dr Iman Yi Liao.
 # There are a little bit modification had done in this file to match to our system
+# This file is used to perform seeds classification to predict the quality of cropped seeds images
 '''
 
 import torch
