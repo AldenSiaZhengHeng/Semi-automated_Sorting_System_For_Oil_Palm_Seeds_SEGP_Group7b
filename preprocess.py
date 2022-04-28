@@ -1,5 +1,6 @@
 '''
 # This file is provided by our supervisor, Dr Iman Yi Liao.
+# This file is used to preprocess the image before performing seeds classification
 '''
 
 import cv2
