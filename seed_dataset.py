@@ -1,5 +1,6 @@
 '''
 # This file is provided by our supervisor, Dr Iman Yi Liao.
+# This file is to contain the function to read the dataset for training model provided.
 '''
 
 
